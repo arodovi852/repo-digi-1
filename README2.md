@@ -7,4 +7,4 @@ Esta es la otra página con más fotos de ella.
 ![WhatsApp Image 2024-10-04 at 10 05 30 AM](https://github.com/user-attachments/assets/1fb6049f-bc7b-4dd8-bad9-03252fa4abf8)
 ![WhatsApp Image 2024-10-04 at 10 05 29 AM](https://github.com/user-attachments/assets/6f095dda-d741-4cef-b9d5-d3fd419e2cdf)
 
-Para volver atrás, presione en el enlace:[Enlace a la otra página](README.md)
+Para volver atrás, presione en el enlace: [Enlace a la otra página](README.md)
